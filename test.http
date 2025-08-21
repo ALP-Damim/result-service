@@ -1,0 +1,4 @@
+GET http://localhost:8080/api/submissions
+
+###
+GET http://localhost:8080/api/submissions/exam/1
